@@ -1,0 +1,15 @@
+{
+  "name": "BankList",
+  "version": "1.0.0",
+  "description": "Lista de bancos brasileiros com ispb e compe",
+  "main": "server.js",
+  "author": "Jean Carlos Coelho",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "get-csv": "^3.0.3",
+    "http": "^0.0.1-security"
+  }
+}
